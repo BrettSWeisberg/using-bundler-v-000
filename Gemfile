@@ -5,6 +5,4 @@ gem "hashie"
 gem "awesome_print"
 
 
-group :development do
-  gem "pry"
-end
+gem "pry", :group => "development"
